@@ -8,8 +8,13 @@ class TSServer {
             host: config_1.config.tsServerIp,
             username: config_1.config.tsUsername,
             password: config_1.config.tsPassword,
+            queryport: 10011,
+            serverport: 9987,
+            nickname: 'Choke me daddy'
         });
     }
-    static getInstance() { return this.teamspeak; }
+    static getInstance() {
+        return this.teamspeak;
+    }
 }
 exports.TSServer = TSServer;

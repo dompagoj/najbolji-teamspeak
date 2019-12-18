@@ -341,59 +341,59 @@
         "version": "59d9169b0593f46b71f010781af360b33debb77ab0349861d4c701b37d00182a",
         "signature": "59d9169b0593f46b71f010781af360b33debb77ab0349861d4c701b37d00182a"
       },
-      "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts": {
         "version": "9c77ce95931f8975d6c00d9d391e71a896501743c29a224b2bcdcdfe8a0142fe",
         "signature": "9c77ce95931f8975d6c00d9d391e71a896501743c29a224b2bcdcdfe8a0142fe"
       },
-      "../node_modules/ts3-nodejs-library/lib/node/Server.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/node/server.d.ts": {
         "version": "63f223db9e277d5bb50efdff86cd181fb51092b0ef402bb8b7002012c0017f86",
         "signature": "63f223db9e277d5bb50efdff86cd181fb51092b0ef402bb8b7002012c0017f86"
       },
-      "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts": {
         "version": "993385ac27268afdedcf27a87e2060ec08a14daf3ab8ae4920bb1b0944226eb1",
         "signature": "993385ac27268afdedcf27a87e2060ec08a14daf3ab8ae4920bb1b0944226eb1"
       },
-      "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts": {
         "version": "73d85a8146fdcc6082d8b881d44eca901d954d9b1be7328894ee4d2aefe261cf",
         "signature": "73d85a8146fdcc6082d8b881d44eca901d954d9b1be7328894ee4d2aefe261cf"
       },
-      "../node_modules/ts3-nodejs-library/lib/exception/ResponseError.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/exception/responseerror.d.ts": {
         "version": "deffbb841ae0ea35050fd11bef631adf822e98844427d67ec5ff6a9f9dafbe25",
         "signature": "deffbb841ae0ea35050fd11bef631adf822e98844427d67ec5ff6a9f9dafbe25"
       },
-      "../node_modules/ts3-nodejs-library/lib/transport/Command.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/transport/command.d.ts": {
         "version": "3a06ef07e4c77a252461cec498be4afce4a7faf28dbcf49f9ccc3f493400378b",
         "signature": "3a06ef07e4c77a252461cec498be4afce4a7faf28dbcf49f9ccc3f493400378b"
       },
-      "../node_modules/ts3-nodejs-library/lib/transport/TeamSpeakQuery.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/transport/teamspeakquery.d.ts": {
         "version": "2e8d01635fc152a8e863c43d8da8153963ea5e1cad84a356717d1aaab3f590f4",
         "signature": "2e8d01635fc152a8e863c43d8da8153963ea5e1cad84a356717d1aaab3f590f4"
       },
-      "../node_modules/ts3-nodejs-library/lib/types/PropertyTypes.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/types/propertytypes.d.ts": {
         "version": "3289de792484ec5503d50892cccd3060f4740fefff63ad60f151480203d12501",
         "signature": "3289de792484ec5503d50892cccd3060f4740fefff63ad60f151480203d12501"
       },
-      "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/node/client.d.ts": {
         "version": "714e6e0a25087748d9f75f2462729b7aa9d5f123c9f6fda7b665214eea88fd2f",
         "signature": "714e6e0a25087748d9f75f2462729b7aa9d5f123c9f6fda7b665214eea88fd2f"
       },
-      "../node_modules/ts3-nodejs-library/lib/node/Channel.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/node/channel.d.ts": {
         "version": "7d245d18af7634870da9ac08cec31c6cc019fdd3ffccbfce037fefff93aac63d",
         "signature": "7d245d18af7634870da9ac08cec31c6cc019fdd3ffccbfce037fefff93aac63d"
       },
-      "../node_modules/ts3-nodejs-library/lib/node/ServerGroup.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/node/servergroup.d.ts": {
         "version": "0b1adf41cd3912e9f7e48d1c0f7ab497407d23773fe8bd3ac3d73999ca9b445e",
         "signature": "0b1adf41cd3912e9f7e48d1c0f7ab497407d23773fe8bd3ac3d73999ca9b445e"
       },
-      "../node_modules/ts3-nodejs-library/lib/node/ChannelGroup.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/node/channelgroup.d.ts": {
         "version": "93a50b77244a5dd72e696e7a9d4bccec0ab5d5fd455505d59e273741509cb9e0",
         "signature": "93a50b77244a5dd72e696e7a9d4bccec0ab5d5fd455505d59e273741509cb9e0"
       },
-      "../node_modules/ts3-nodejs-library/lib/types/Events.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/types/events.d.ts": {
         "version": "e3450d2a407e5938b5e3bba9b38657e6799f897a78fae1ff496ffaabdf974453",
         "signature": "e3450d2a407e5938b5e3bba9b38657e6799f897a78fae1ff496ffaabdf974453"
       },
-      "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts": {
+      "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts": {
         "version": "9f1b428e6016cdc85a308dbd3e5286858cd99a2ef1f6596509081b80b8761aa7",
         "signature": "9f1b428e6016cdc85a308dbd3e5286858cd99a2ef1f6596509081b80b8761aa7"
       },
@@ -402,28 +402,36 @@
         "signature": "63898a4cf9216da97f5bafbec0e62f5ee6f4c84f68dea2ea92b317ed18500ff8"
       },
       "../src/teamspeak/teamspeak.ts": {
-        "version": "d8a810ac04bc475b37aac47375318ea3a098e415676e718ffa7687f5752c8599",
+        "version": "7f8682d4d048d7eea0a959d7f1747ef240256f0263cf547aec0b595ae2377f78",
         "signature": "9834b64722f9f19a9a179a4bbc74253f24867fdc66f2186b93d20cf6eeda073a"
       },
       "../src/socket/connections.ts": {
-        "version": "ebcc9c3bfef84b717ff816697ada51b3c012fffcbfa3f4a4b755b3f831d86f13",
-        "signature": "65e99a2a74199f1e2de6061e747bbbd9e2c4a4596f39d850f53f3a253222d30d"
+        "version": "34f277c4542028c5859b618ea22409982a1ccb6a9b7001324edb50632668267d",
+        "signature": "9e223e166abd6ccaba4ab1e2873056376c9d524f40969b48bdae2c6f31972cbe"
       },
       "../src/utils.ts": {
         "version": "e81849ee4c7964651aaf8916f359c21ea5dbe4540bd908b8d686b446a92ea36b",
         "signature": "6f42aeb866867819229a97441b7b91d50eda88ac6458c8c598eb3dd9cf7608c3"
       },
+      "../src/socket/commands.ts": {
+        "version": "984b32cc305040dbe29c9bb1b94cb1d3839b2fe2fa56ad88e43c0f6231895349",
+        "signature": "096ae239e774885adbfae9f90a10de4315ca7c49ec53115ee909a1c972a72242"
+      },
       "../src/socket/socket-handler.ts": {
-        "version": "4a3596b42c7c88ce5ea89a071198fc0417e07807eb6ef79b8922191c8084f99e",
-        "signature": "e9c82507111eeb50f6aa68aa4779fb7c615e49b5c9dd3a78939f09482a313709"
+        "version": "0db2f05851a362fa16b21d8b83301bb2050cef42b4cce5cf08644638faeeb8d7",
+        "signature": "13fad2339eed95284df8a9f2936f08cc450e654c992355334e51122949100f33"
       },
       "../src/socket/connection-handler.ts": {
         "version": "46a32a77f1254eae0ad95660db1d3e1d3dd754040adf216e67db2ebf1a7f2b51",
         "signature": "03e710552eca10340b8d6f2667320e7cb2f910309059c5dc5d2b2f7e4ee3b6c0"
       },
       "../src/server.ts": {
-        "version": "ba7bbe7f550f7833f23fd3ac3a4c011ab34c5d1b71d0d942989e9183612721a4",
+        "version": "efd077de40f2f2b5fa8afb2bd2732b9f1c2d87f2cc122c9e02229abc14a4c935",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../src/socket/auth.ts": {
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
       },
       "../node_modules/@types/strip-bom/index.d.ts": {
         "version": "4006c872e38a2c4e09c593bc0cdd32b7b4f5c4843910bea0def631c483fff6c5",
@@ -1209,9 +1217,9 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -1219,11 +1227,11 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/Server.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/server.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -1231,8 +1239,8 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Server.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/server.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -1240,9 +1248,9 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts": [
+      "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts": [
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -1250,8 +1258,8 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/exception/ResponseError.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/exception/responseerror.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -1259,9 +1267,9 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/transport/Command.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/exception/ResponseError.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/transport/command.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/exception/responseerror.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -1269,11 +1277,11 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/transport/TeamSpeakQuery.d.ts": [
+      "../node_modules/ts3-nodejs-library/lib/transport/teamspeakquery.d.ts": [
         "../node_modules/@types/node/events.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/transport/Command.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/transport/command.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -1282,7 +1290,7 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/types/PropertyTypes.d.ts": [
+      "../node_modules/ts3-nodejs-library/lib/types/propertytypes.d.ts": [
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -1291,13 +1299,13 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/PropertyTypes.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/client.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/propertytypes.d.ts",
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -1306,13 +1314,13 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/Channel.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/PropertyTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/channel.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/propertytypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/client.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -1321,11 +1329,11 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/ServerGroup.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/servergroup.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -1334,11 +1342,11 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/ChannelGroup.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/channelgroup.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -1347,11 +1355,11 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/types/Events.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Channel.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/types/events.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/client.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/channel.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -1360,19 +1368,19 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts": [
+      "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts": [
         "../node_modules/@types/node/events.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/transport/TeamSpeakQuery.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/exception/ResponseError.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Server.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Channel.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/ServerGroup.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/ChannelGroup.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/Events.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/PropertyTypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/transport/teamspeakquery.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/exception/responseerror.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/client.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/server.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/channel.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/servergroup.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/channelgroup.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/events.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/propertytypes.d.ts",
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
@@ -1383,15 +1391,15 @@
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../node_modules/ts3-nodejs-library/lib/index.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/Events.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Channel.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/ChannelGroup.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Server.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/ServerGroup.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/exception/ResponseError.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/events.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/channel.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/channelgroup.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/client.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/server.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/servergroup.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/exception/responseerror.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -1426,10 +1434,20 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "../src/socket/commands.ts": [
+        "../index.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "../src/socket/socket-handler.ts": [
         "../index.d.ts",
         "../src/socket/connections.ts",
         "../src/utils.ts",
+        "../src/socket/commands.ts",
+        "../src/teamspeak/teamspeak.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
@@ -1449,6 +1467,15 @@
         "../index.d.ts",
         "../src/teamspeak/teamspeak.ts",
         "../src/socket/connection-handler.ts",
+        "../src/socket/connections.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../src/socket/auth.ts": [
+        "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
@@ -2223,9 +2250,9 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -2233,11 +2260,11 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/Server.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/server.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -2245,8 +2272,8 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Server.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/server.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -2254,9 +2281,9 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts": [
+      "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts": [
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -2264,8 +2291,8 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/exception/ResponseError.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/exception/responseerror.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -2273,9 +2300,9 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/transport/Command.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/exception/ResponseError.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/transport/command.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/exception/responseerror.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -2283,11 +2310,11 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/transport/TeamSpeakQuery.d.ts": [
+      "../node_modules/ts3-nodejs-library/lib/transport/teamspeakquery.d.ts": [
         "../node_modules/@types/node/events.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/transport/Command.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/transport/command.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -2296,7 +2323,7 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/types/PropertyTypes.d.ts": [
+      "../node_modules/ts3-nodejs-library/lib/types/propertytypes.d.ts": [
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -2305,13 +2332,13 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/PropertyTypes.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/client.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/propertytypes.d.ts",
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -2320,13 +2347,13 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/Channel.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/PropertyTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/channel.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/propertytypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/client.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -2335,11 +2362,11 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/ServerGroup.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/servergroup.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -2348,11 +2375,11 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/node/ChannelGroup.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/channelgroup.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -2361,11 +2388,11 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/types/Events.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Channel.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/types/events.d.ts": [
+        "../node_modules/ts3-nodejs-library/lib/node/client.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/channel.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
@@ -2374,19 +2401,19 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts": [
+      "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts": [
         "../node_modules/@types/node/events.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/transport/TeamSpeakQuery.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/exception/ResponseError.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Server.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Channel.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/ServerGroup.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/ChannelGroup.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/Events.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/PropertyTypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/transport/teamspeakquery.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/exception/responseerror.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/client.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/server.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/channel.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/servergroup.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/channelgroup.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/events.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/propertytypes.d.ts",
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../index.d.ts",
@@ -2397,15 +2424,15 @@
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../node_modules/ts3-nodejs-library/lib/index.d.ts": [
-        "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
         "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/types/Events.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Channel.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/ChannelGroup.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/Server.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/node/ServerGroup.d.ts",
-        "../node_modules/ts3-nodejs-library/lib/exception/ResponseError.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/types/events.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/channel.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/channelgroup.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/client.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/server.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/node/servergroup.d.ts",
+        "../node_modules/ts3-nodejs-library/lib/exception/responseerror.d.ts",
         "../index.d.ts",
         "../node_modules/@types/node/net.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -2528,29 +2555,31 @@
       "../node_modules/dotenv/types/index.d.ts",
       "../src/config.ts",
       "../node_modules/ts3-nodejs-library/lib/types/enum.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/node/Abstract.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/node/Server.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/types/ResponseTypes.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/types/QueryResponse.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/exception/ResponseError.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/transport/Command.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/transport/TeamSpeakQuery.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/types/PropertyTypes.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/node/Client.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/node/Channel.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/node/ServerGroup.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/node/ChannelGroup.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/types/Events.d.ts",
-      "../node_modules/ts3-nodejs-library/lib/TeamSpeak.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/abstract.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/server.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/types/responsetypes.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/types/queryresponse.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/exception/responseerror.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/transport/command.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/transport/teamspeakquery.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/types/propertytypes.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/client.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/channel.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/servergroup.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/node/channelgroup.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/types/events.d.ts",
+      "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
       "../node_modules/ts3-nodejs-library/lib/index.d.ts",
-      "../src/teamspeak/teamspeak.ts",
       "../src/socket/connections.ts",
       "../src/utils.ts",
+      "../src/socket/commands.ts",
+      "../src/socket/socket-handler.ts",
+      "../src/socket/connection-handler.ts",
       "../src/server.ts",
+      "../src/socket/auth.ts",
       "../node_modules/@types/strip-bom/index.d.ts",
       "../node_modules/@types/strip-json-comments/index.d.ts",
-      "../src/socket/socket-handler.ts",
-      "../src/socket/connection-handler.ts"
+      "../src/teamspeak/teamspeak.ts"
     ]
   },
   "version": "3.7.3"

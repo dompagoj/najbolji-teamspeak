@@ -2,6 +2,7 @@ import { Socket } from 'net'
 import { connections } from './connections'
 import { generateRandomBytes } from '../utils'
 import { Commands } from './commands'
+import { TSServer } from '../teamspeak/teamspeak'
 
 export class SocketHandler {
   private socket: Socket
@@ -17,14 +18,23 @@ export class SocketHandler {
   public handleEnd = () => {
     console.log('End!')
   }
-  public handleData = (data: Buffer) => {
+  public handleData = async (data: Buffer) => {
     console.log(data)
     // console.log(JSON.parse(data.toString()))
-    const action = data.readUInt16BE(0)
-    const type = data.readUInt8(2)
-    const payload = data.slice(3).readUInt8(0)
-    console.log('action: ', action)
-    console.log('type: ', type)
-    console.log('payload: ', payload)
+    const action = data.readUInt8(0)
+    const type = data.readUInt8(1)
+    const payload = data.slice(2)
+
+    const teamspeak = TSServer.getInstance()
+
+    switch (action) {
+      case Commands.GET_CLIENT_LIST:
+        const clients = await teamspeak.clientList()
+        this.socket.write(JSON.stringify(clients))
+        break
+
+      default:
+        console.error('Unknown command!')
+    }
   }
 }

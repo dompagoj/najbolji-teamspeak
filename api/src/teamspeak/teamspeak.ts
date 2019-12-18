@@ -9,15 +9,16 @@ export class TSServer {
       host: config.tsServerIp,
       username: config.tsUsername,
       password: config.tsPassword,
+      queryport: 10011, //optional
+      serverport: 9987,
+      nickname: 'Choke me daddy'
     })
   }
 
-  public static getInstance() { return this.teamspeak }
-
-
+  public static getInstance() {
+    return this.teamspeak
+  }
 }
-
-
 
 // await Promise.all([
 //   teamspeak.registerEvent("server"),
