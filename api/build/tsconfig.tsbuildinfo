@@ -418,7 +418,7 @@
         "signature": "096ae239e774885adbfae9f90a10de4315ca7c49ec53115ee909a1c972a72242"
       },
       "../src/socket/socket-handler.ts": {
-        "version": "0db2f05851a362fa16b21d8b83301bb2050cef42b4cce5cf08644638faeeb8d7",
+        "version": "abc335cdd6824f582638f54d83ac36036b86d74577bc7fd2087e9053ffb2903b",
         "signature": "13fad2339eed95284df8a9f2936f08cc450e654c992355334e51122949100f33"
       },
       "../src/socket/connection-handler.ts": {
@@ -426,7 +426,7 @@
         "signature": "03e710552eca10340b8d6f2667320e7cb2f910309059c5dc5d2b2f7e4ee3b6c0"
       },
       "../src/server.ts": {
-        "version": "efd077de40f2f2b5fa8afb2bd2732b9f1c2d87f2cc122c9e02229abc14a4c935",
+        "version": "0abbf592d971cd684acb3b7d893d9830f33d376b12e8f1c0d1db14b795c99525",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "../src/socket/auth.ts": {
@@ -2570,16 +2570,16 @@
       "../node_modules/ts3-nodejs-library/lib/types/events.d.ts",
       "../node_modules/ts3-nodejs-library/lib/teamspeak.d.ts",
       "../node_modules/ts3-nodejs-library/lib/index.d.ts",
+      "../src/teamspeak/teamspeak.ts",
       "../src/socket/connections.ts",
       "../src/utils.ts",
       "../src/socket/commands.ts",
-      "../src/socket/socket-handler.ts",
       "../src/socket/connection-handler.ts",
-      "../src/server.ts",
       "../src/socket/auth.ts",
       "../node_modules/@types/strip-bom/index.d.ts",
       "../node_modules/@types/strip-json-comments/index.d.ts",
-      "../src/teamspeak/teamspeak.ts"
+      "../src/socket/socket-handler.ts",
+      "../src/server.ts"
     ]
   },
   "version": "3.7.3"

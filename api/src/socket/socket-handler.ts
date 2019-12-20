@@ -13,14 +13,17 @@ export class SocketHandler {
     this.socket = socket
   }
   public handleClose = (hadError: boolean) => {
-    connections.remove(this.socket)
+    try {
+      connections.remove(this.socket)
+    } catch(e) {
+      console.info('Connection already closed!')
+    }
   }
   public handleEnd = () => {
     console.log('End!')
   }
   public handleData = async (data: Buffer) => {
-    console.log(data)
-    // console.log(JSON.parse(data.toString()))
+    console.log('data: ', data)
     const action = data.readUInt8(0)
     const type = data.readUInt8(1)
     const payload = data.slice(2)
@@ -31,6 +34,10 @@ export class SocketHandler {
       case Commands.GET_CLIENT_LIST:
         const clients = await teamspeak.clientList()
         this.socket.write(JSON.stringify(clients))
+        break
+      case Commands.GET_CLIENT:
+        const clientId = payload.readUInt32LE(0)
+        this.socket.write(`Hello there client with id ${clientId}`)
         break
 
       default:

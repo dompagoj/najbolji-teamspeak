@@ -7,13 +7,18 @@ const teamspeak_1 = require("../teamspeak/teamspeak");
 class SocketHandler {
     constructor(socket) {
         this.handleClose = (hadError) => {
-            connections_1.connections.remove(this.socket);
+            try {
+                connections_1.connections.remove(this.socket);
+            }
+            catch (e) {
+                console.info('Connection already closed!');
+            }
         };
         this.handleEnd = () => {
             console.log('End!');
         };
         this.handleData = async (data) => {
-            console.log(data);
+            console.log('data: ', data);
             const action = data.readUInt8(0);
             const type = data.readUInt8(1);
             const payload = data.slice(2);
@@ -22,6 +27,11 @@ class SocketHandler {
                 case commands_1.Commands.GET_CLIENT_LIST:
                     const clients = await teamspeak.clientList();
                     this.socket.write(JSON.stringify(clients));
+                    break;
+                case commands_1.Commands.GET_CLIENT:
+                    const clientId = payload.readUInt32LE(0);
+                    this.socket.write(`Hello there client with id ${clientId}`);
+                    break;
                 default:
                     console.error('Unknown command!');
             }
