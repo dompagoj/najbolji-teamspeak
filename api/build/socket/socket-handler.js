@@ -7,6 +7,7 @@ const teamspeak_1 = require("../teamspeak/teamspeak");
 class SocketHandler {
     constructor(socket) {
         this.handleClose = (hadError) => {
+            console.log('Close!');
             try {
                 connections_1.connections.remove(this.socket);
             }

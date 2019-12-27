@@ -12,16 +12,20 @@ export class SocketHandler {
     connections.add(socket)
     this.socket = socket
   }
+
   public handleClose = (hadError: boolean) => {
+    console.log('Close!')
     try {
       connections.remove(this.socket)
     } catch(e) {
       console.info('Connection already closed!')
     }
   }
+
   public handleEnd = () => {
     console.log('End!')
   }
+
   public handleData = async (data: Buffer) => {
     console.log('data: ', data)
     const action = data.readUInt8(0)

@@ -5,7 +5,14 @@ import 'data/client.dart';
 import 'socket.dart';
 
 void main() async {
-  final socket = await ClientSocket.connect();
+  ClientSocket socket;
+
+  try {
+    socket = await ClientSocket.connect();
+  } catch (e) {
+    print('Couldn\'t connect to socket');
+    exit(1);
+  }
 
   // socket.listen((response) {
   //   List<dynamic> data = json.decode(utf8.decode(response));

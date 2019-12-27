@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mobile/data/user.dart';
-import 'package:mobile/user_list/user_list_row.dart';
+import 'package:mobile/users/user_list_row.dart';
 
 const userList = [
   User(id: 1, online: true, username: 'Dompa'),

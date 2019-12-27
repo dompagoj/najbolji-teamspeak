@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:mobile/data/user.dart';
 
+const ONLINE_COLOR = Colors.green;
+const OFFLINE_COLOR = Colors.red;
+
 class UserListRow extends StatelessWidget {
   final User user;
 
@@ -13,14 +16,16 @@ class UserListRow extends StatelessWidget {
       child: Row(
         children: [
           Container(
-            child: SizedBox(width: 15, height: 15),
+            child: const SizedBox(width: 15, height: 15),
             decoration: BoxDecoration(
-              color: user.online ? Colors.green : Colors.red,
+              color: user.online ? ONLINE_COLOR : OFFLINE_COLOR,
               shape: BoxShape.circle,
             ),
           ),
           const SizedBox(width: 10),
           Text(user.username),
+          Spacer(flex: 1),
+          
         ],
       ),
     );

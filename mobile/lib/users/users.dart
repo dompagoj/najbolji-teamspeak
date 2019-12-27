@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mobile/bottom_bar.dart';
-import 'package:mobile/user_list/user_list.dart';
+import 'package:mobile/users/user_list.dart';
 
 class Users extends StatelessWidget {
   @override
