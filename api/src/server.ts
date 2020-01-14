@@ -1,7 +1,6 @@
 import net from 'net'
 import { TSServer } from './teamspeak/teamspeak'
 import { handleSocketConnection, handleConnectionError } from './socket/connection-handler'
-import { connections } from './socket/connections'
 
 async function main() {
   const server = net.createServer()
